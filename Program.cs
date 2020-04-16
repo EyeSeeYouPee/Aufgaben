@@ -12,6 +12,7 @@ namespace Aufgaben
         {
             Console.WriteLine("das ist die erste Änderung");
             Console.WriteLine("Hello!");
+            Console.WriteLine("Um sicher zu gehen das ich es verstanden habe");
         }
     }
 }
