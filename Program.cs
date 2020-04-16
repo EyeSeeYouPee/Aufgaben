@@ -10,6 +10,8 @@ namespace Aufgaben
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("das ist die erste Änderung");
+            Console.WriteLine("Hello!");
         }
     }
 }
